@@ -3,7 +3,7 @@
 Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
 
 ## Presentación
-- **Estudiante:** [Delfina Cacerees]
+- **Estudiante:** [Delfina Caceres]
 - **Curso:** [4°3]
 - **Escuela:** [Agustin Tosco]
 
